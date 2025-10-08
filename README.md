@@ -3,7 +3,9 @@ Basic Arithmetic Calculator (Python)
 This project implements a simple, menu-driven calculator application in Python. The goal is to demonstrate fundamental programming concepts, including functions, user input handling, conditional logic (if/elif/else), and modular code design.
 
 🟣 Project Breakdown:
-  1️⃣main_calculator.py: Manages the user interface and application flow. It presents a menu of operations, takes numerical inputs from the user, and validates the                                 operation choice before delegating the calculation.
+
+  1️⃣main_calculator.py: Manages the user interface and application flow. It presents a menu of operations, takes numerical inputs from the user, and validates the operation choice before delegating the calculation.
+  
   2️⃣Function_Calculator.py: Contains four distinct functions (add, subtract, multiply, division) that execute the core arithmetic logic.
 
 🔵 Key Features:
