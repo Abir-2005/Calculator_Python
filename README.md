@@ -9,6 +9,7 @@ This project implements a simple, menu-driven calculator application in Python. 
   2️⃣Function_Calculator.py: Contains four distinct functions (add, subtract, multiply, division) that execute the core arithmetic logic.
 
 🔵 Key Features:
+
   ✅ Modular Design: Separates UI logic from calculation logic for cleaner, more reusable code.
 
   ✅ Continuous Operation: Runs in a while loop, allowing the user to perform multiple calculations without restarting the program.
